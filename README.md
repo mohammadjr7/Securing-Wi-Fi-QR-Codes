@@ -1,4 +1,5 @@
 # Securing-Wi-Fi-QR-Codes
+![/Imgs/Intro,jpg]
 Encrypting the Wi-Fi passwords in QR Code Wi-Fi Share
 
 # Presentation and Schematics
